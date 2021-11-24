@@ -1,0 +1,15 @@
+#print{display:block}
+#_proprofs_trk_main_div_,#catbottom,#detailpage,#l2snlayer,#orderConfirm,#sub-category,.breadcrumb,footer,header{display:none;visibility:hidden}
+#print .printDetailBox td{padding:10px 0;text-align:left}
+#print #contact p{display:block;color:#333;font-size:15px;line-height:1.5}
+#print #contact span{color:#0007df;text-decoration:underline}
+#print .productDetailsBlock h1{display:block;color:#115094;font-weight:400;font-size:16px;line-height:1.4}
+#print #bigImageBox{position:relative;margin:10px auto;width:400px}
+#print .thumb-images{margin:10px 0;width:100%}
+#print #filterResultBox{width:80%}
+#print .thumb-imagebox .thumb-images li{float:left;margin-bottom:20px;width:70px;list-style:none!important;text-align:center}
+#print .pagingtop{margin:0;padding:0;border:none}
+#print .scStepsBlock .scStep{width:25%;float:left}
+#print .orderStatusBlock .orderStatusBox{width:33.33%;float:left;font-size:20px;text-align:left;padding:0;margin:0}
+#print .bottom4GrayBlock .bottomGrayBlock{width:33.33%;float:left}
+@media print and (color){*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}

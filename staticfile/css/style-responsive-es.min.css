@@ -1,0 +1,266 @@
+@media only screen and (max-width:768px){
+.dealItemsBox .dealItemBox p.diname{height: 60px;}
+.dealItemsBox .dealItemBox p.diprice{height: 30px;}
+.dealItemsBox .dealItemBox a.dibuy{font-size: 13px}
+#featuredbox .titlebg{width: 80px;}
+#featuredbox .productwrap{width: 654px;}
+#productcatBox .productcat .catDetailBox p.title{height: 28px}
+#productcatBox .productcat .catDetailBox p.desc{height: 58px;}
+#productcatBox .productcat .catDetailBox a{width: 160px}
+#featuredbox .productwrap .box{padding: 0;}
+#featuredbox .productwrap .box td:first-child{width: 50px;}
+.box .catprodetail{padding: 0;}
+.box .catprodetail .caption span{font-family: OpenSans;padding: 2px;}
+#tabs #tabul li:nth-child(1){width: 369px;}
+#tabs #tabul li:nth-child(2){border-right: 1px solid #808184;width: 369px;}
+#tabs #tabul li {padding: 0 40.6px;}
+#productcodeBox td:last-child{width:348px}
+#topHead table tr td:nth-child(2) a:first-child{display: inline-block;width: 190px;height: 23px;overflow: hidden;white-space: nowrap;text-overflow:ellipsis;}
+}
+@media only screen and (min-width:768px){
+.topNav li.navli {padding: 0 9px;}
+.topNav li.fnavli .catdropdown .catnav>a{width: 240px}
+.topNav li.fnavli .catdropdown .catnav ul.subCatNav{left:270px!important}
+footer .footer-bar .col-sm-4 {width: 372px;}
+footer .footer-bar #signUpEmail{width: 238px;}
+footer .footer-bar .signbtn{width: 94px;}
+footer .footer-content .col-sm-4 a{font-size: 12px}
+footer .footer-content .col-sm-4:first-child{width: 200px}
+footer .footer-content .col-sm-4:nth-child(2){width: 356px;}
+footer .footer-content .col-sm-4:nth-child(2) td:first-child{width: 180px;}
+footer .footer-content .col-sm-4:last-child {width: 212px;}
+.loginblock .from_fieldBox input {width: 71.5%;}
+.userblock p.loginbtn{width: 27.5%}
+.cattitle span, .cattitleright span{font-size: 13px}
+#cattitleLeft, #cattitleRight {height: 128px;}
+#imprintBox tr td:first-child{width: 170px;}
+.buttonBlockZoomPrint a:nth-child(2){margin: 0 10px;}
+.detailleft a.video{margin-left: 10px;}
+#productcodeBox .emailusbtn{margin: 0 5px 0 0;}
+#watchList .watchBox .watchbtn{width: 150px;}
+.shopnow1 a:FIRST-CHILD{margin-right: 10px;width: 120px;}
+.myaccount .recentlyOrder .col-sm-9 td:nth-child(2){width: 222px;}
+.myaccount .recentlyOrder .col-sm-9 td:last-child{width:110px;}
+.myaccount .recentlyOrder .col-sm-9 td:last-child .reorderbtn{width:110px;}
+.orderingDetailsBlock .orderItems .orderItem .td65{width: 85px;}
+.orderingDetailsBlock .orderItems .orderItem .td80{width: 140px;}
+.orderingDetailsBlock .orderItems .orderItem .td80:last-child{width: 90px;}
+.from_fieldBox.btnBox a.form_btn{width: 140px;}
+.sameAddressBtn{width: 260px}
+.loginPage .contactInfo a{display:block;margin: 0 auto!important;width: 255px;}
+.loginPage .contactInfo a:last-child{margin-top: 10px!important;}
+.pamentPage a.addPayment{width: 115px}
+.subcategory-box p{font-size: 12px}
+.subcategory-filter-box p.detailp{height: 42px}
+#printArea .searchBox#sortBy{margin-bottom: 5px;}
+.pagingtop table td:first-child{width: 86px!important;font-size: 12px;}
+#printArea .pagingtop table td:nth-child(2){width: 134px;padding-left: 6px;}
+.pagingtop table td:last-child{width: 211px!important;}
+.pagingtop table td {height: 26px;line-height: 26px;}
+.pagingtop #items{font-size: 12px;width: 141.5px;margin-right: 0;}
+.pagingtop .sort-item {width: 60px;}
+.pagingtop .searchBox{height: 26px;line-height: 24px;margin-left: 0px;font-size: 12px;}
+.fourSearchBox table td:nth-child(2){padding-left: 6px;}
+.fourSearchBox #sortBy{width: 144px}
+.fourSearchBox #sortBy1{width: 82px}
+.fourSearchBox #allcolorBox{width: 70px}
+.fourSearchBox #allmfgBox{width: 127px;}
+.scStepsBlock .scStep p.desc{font-size: 16px;}
+.scDescriptions .itemTitle{font-size: 18px}
+.scTable tr td:nth-child(2), .scTable tr th:nth-child(2){width: 112px}
+.scBottomBlock .scCheckoutTable td{font-size: 18px}
+.scBottomBlock .scCheckoutTable .couponBlock{font-size: 12px;}
+.scBottomBlock .scCheckoutTable tr td.offsave{font-size: 12px;}
+.couponBlock input[type=text]{margin: 0 2px;width: 50px;height: 24px;line-height:22px;font-size: 12px;}
+.billingPaymentBlock .changeBtn{font-size: 12px;height: 25px;line-height: 23px;}
+.billingPaymentBlock .scAddTitle{font-size: 16px;}
+.billingPaymentBlock .scAddress{font-size: 14px;line-height: 1.5}
+input[type='checkbox']#shippingType,input[type='checkbox']#paymentType{margin-right: 10px;}
+.existAddress{top:26px;}
+.existAddress p{font-size: 14px;padding: 3px 5px;}
+.addressbox{top:60px}
+.addressbox h2{font-size: 17px;}
+.billingPaymentBlock .shippingInfo .scAddress{width: 24.5%!important;}
+.billingPaymentBlock .shippingInfo .scOpBox {width: 41.5%!important;}
+.billingPaymentBlock .grayText{font-size: 14px;}
+.billingPaymentBlock .shippingInfo select{margin-top: 5px;}
+.payMode .payInfo{width: 72.5%}
+.payMode .billingInfo{width: 27.5%}
+.payMode .payInfo .formBlock label{width: calc(100% - 284px);}
+.payMode .payInfo input[type=text], .payMode .payInfo select {width: 280px;}
+.payMode .payInfo .formBlock .date select{width: 135px;}
+.payMode .securityCode input[type=text] {width: 175px!important;}
+.payMode .billingInfo .formBlock label{width: 100%}
+.orderStatusBlock .orderStatusBox{font-size: 18px;margin-left: 20px;}
+.orderStatusBlock .orderStatusBox:nth-child(2){width: 260px}
+.orderStatusBlock .orderStatusBox:nth-child(3){width: 243px;}
+.bottom4GrayBlock .bottomGrayBlock{width: 37.25%}
+.bottom4GrayBlock .bottomGrayBlock:last-child{width: 25.5%}
+#cart_img{width: 80px;}
+.myaccount .summaryInfoBox{width:49%;margin-right:2%;}
+.myaccount .summaryInfoBox:nth-child(2n+1){margin-right:0;}
+.myaccount .summaryInfoBox p.title{font-size: 19px;}
+#emailUsForm a.aemailus{margin: 9pt 10px 0 0px;width: 275px;}
+.promotips .promotip h3{height: 70px}
+.reorderbtn{font-size: 18px;}
+}
+@media only screen and (min-width:1024px){
+#topHead td, #topHead a {font-size: 13px;}
+#topHead table tr td:nth-child(2) a {margin-left: 10px;}
+#tophead .col-sm-3:nth-child(2){width: 312px}
+#tophead .col-sm-3:nth-child(2) table{width: 280px}
+#tophead .col-sm-3:nth-child(4){width: 230px}
+.topNav li.navli {padding: 0 16px;}
+#productcatBox .productcat .catDetailBox p.title{height: 36px}
+#productcatBox .productcat .catDetailBox p.desc{height: 46px;}
+footer .footer-content .col-sm-4:first-child {width: 220px;}
+footer .footer-content .col-sm-4:nth-child(2) {padding: 0;width: 546px;}
+footer .footer-content .col-sm-4:nth-child(2) td:first-child {width: 260px;}
+footer .footer-content .col-sm-4:last-child {width: 242px;}
+footer .footer-content .col-sm-4 a{font-size: 14px}
+footer .footer-content p.title, footer .footer-icon span {font-size: 16px;}
+#tabs #tabul li:nth-child(1),#tabs #tabul li:nth-child(2){width: 50%;}
+#tabs #tabul li:nth-child(3),#tabs #tabul li:nth-child(4){width: 100%;}
+#tabs #tabul li:nth-child(2),#tabs #tabul li:nth-child(3) {border-right: 1px solid #808184!important;}
+#productcodeBox td:last-child {width: 200px;}
+#productcodeBox td:last-child a.emailusbtn {margin-bottom: 5px;}
+#quantityprice table tr td:first-child{width: 140px;}
+.buttonBlockZoomPrint a:nth-child(2){margin: 0 0 0 20px;}
+.detailleft a.video{margin: 10px 0 0 20px;}
+.myaccount .recentlyOrder .col-sm-9 td:last-child{width:135px;}
+.pagingtop table td:last-child{width: 222px!important}
+#printArea .pagingtop table td:nth-child(2){width: 314px;}
+.pagingtop #sortBy1{width: 140px}
+.pagingtop .sort-item{width: 71px;}
+.fourSearchBox #sortBy{width: 160px}
+.fourSearchBox #allcolorBox{width: 120px}
+.fourSearchBox #allmfgBox{width: 160px;}
+#SearchBrandForm td,#SearchBrandForm .searchBox {height: 36px;line-height: 34px;}
+#SearchBrandForm .searchBox{font-size: 15px;margin-left: 5px}
+#SearchBrandForm table td:first-child{font-size: 15px;width: 115px!important}
+#SearchBrandForm table td:nth-child(2){width: calc(100% - 115px - 265px);padding-left: 5px;}
+#SearchBrandForm table td:last-child{width: 269px!important}
+#SearchBrandForm #sortBy{width: 200px}
+#SearchBrandForm #sortBy1{width: 130px}
+#SearchBrandForm #allcolorBox{width: 130px}
+#SearchBrandForm .sort-item{width: 83px;}
+#SearchBrandForm #items{font-size: 15px;width: 177px;}
+.scTable tr td:nth-child(2), .scTable tr th:nth-child(2){width: 140px;padding-right: 20px;}
+.payMode .payInfo{width: 63%}
+.payMode .billingInfo{width: 37%;padding: 0;}
+.payMode .billingInfo .formBlock label{width: calc(100% - 174px)}
+.payMode .billingInfo .formBlock input[type=text], .payMode .billingInfo .formBlock select{width: 170px;}
+.orderStatusBlock .orderStatusBox{margin-left: 40px;}
+.myaccount .summaryInfoBox{width:32.66%;margin-right:1%;}
+.myaccount .summaryInfoBox:nth-child(2n+1){margin-right:1%;}
+.myaccount .summaryInfoBox:nth-child(3n+3){margin-right:0;}
+.myaccount .summaryInfoBox table tr td:first-child{width: 70px}
+.myaccount .summaryInfoBox p.title{font-size: 17px;}
+.myaccount .summaryInfoBox p.stitle{font-size: 13px;}
+.promotips .promotip h3{height: 76px}
+}
+@media only screen and (min-width:1080px){
+#topHead td, #topHead a {font-size: 14px;}
+#topHead table tr td:nth-child(2) a {margin-left: 20px;}
+#tophead .col-sm-3:nth-child(2){width: 368px}
+.topNav li.navli {padding: 0 20px;}
+#productcodeBox td:last-child {width: 348px;}
+footer .footer-content .col-sm-4:nth-child(2) {padding: 0;width: 602px;}
+.payMode .payInfo{width: 60%}
+.payMode .billingInfo{width: 40%;padding: 0 0 0 25px;}
+.myaccount .summaryInfoBox table tr td:first-child{width: 80px}
+}
+@media only screen and (min-width:1280px){
+#topHead td, #topHead a {font-size: 16px;}
+#headerDropdown{width: 135px;}
+#cart_img{width: 85px;}
+#tophead .col-sm-3:nth-child(3){width: 260px;}
+#tophead .col-sm-3:nth-child(2) {width: 369px;}
+#tophead .col-sm-3:nth-child(2) table{width: 330px}
+#tophead .col-sm-3:nth-child(4) {width: 270px;}
+.topNav li.navli {padding: 0 32px;}
+.poststeps .viewgallery{top:6px}
+footer .footer-content .col-sm-4 a{font-size: 15px}
+footer .footer-content .col-sm-4:first-child{width: 302px;}
+footer .footer-content .col-sm-4:nth-child(2) {padding: 0 15px;width: 658px;}
+footer .footer-content .col-sm-4:nth-child(2) td:first-child {width: 260px;}
+footer .footer-content .col-sm-4:last-child {width: 302px;}
+footer .footer-content p.title, footer .footer-icon span {font-size: 23px;}
+footer .footer-content p.title{margin-bottom: 20px}
+.myaccount .recentlyOrder .col-sm-9 td:nth-child(2){width: 282px;}
+footer .footer-bar .col-sm-4{width: 414px;}
+footer .footer-bar #signUpEmail{width: 270px}
+footer .footer-bar .signbtn{width: 104px}
+#cattitleLeft, #cattitleRight{height: 73px}
+#filtersearch{width: 94%}
+#filtersearch #filterkeyword,#filtersearch .input-group-btn{height: 26px;line-height: 24px;font-size: 12px;}
+#filtersearch .input-group-btn img{height: 16px;line-height: 16px;}
+.fourSearchBox td,.fourSearchBox .searchBox {height: 36px;line-height: 34px;}
+.fourSearchBox .searchBox{font-size: 15px;margin-left: 5px}
+.fourSearchBox table td:first-child{font-size: 15px;width: 115px!important}
+.fourSearchBox table td:nth-child(2){width: calc(100% - 115px - 265px);padding-left: 5px;}
+.fourSearchBox table td:last-child{width: 269px!important}
+.fourSearchBox #sortBy{width: 200px}
+.fourSearchBox #sortBy1{width: 130px}
+.fourSearchBox #allcolorBox{width: 130px}
+.fourSearchBox #allmfgBox{width: 200px;}
+.fourSearchBox .sort-item{width: 83px;}
+.fourSearchBox #items{font-size: 15px;width: 177px;}
+.billingPaymentBlock .scAddTitle {font-size: 20px;}
+.billingPaymentBlock .scAddress{font-size: 16px;}
+.billingPaymentBlock .changeBtn{font-size: 14px;height: 35px;line-height: 33px;width: 142px;}
+.existAddress,.addressbox {top: 35px;}
+.payMode .payInfo{width: 53%}
+.payMode .billingInfo{width: 47%;}
+.payMode .formBlock label{width: calc(100% - 354px)!important;}
+.payMode input[type=text], .payMode select {width: 350px!important;}
+.payMode .formBlock .date select{width: 170px!important;}
+.payMode .securityCode input[type=text] {width: 245px!important;}
+.myaccount .summaryInfoBox p.title{font-size: 20px;}
+.promotips .promotip h3{height: 98px}
+}
+@media only screen and (min-width:1360px){
+#topHead table tr td:nth-child(2) a {margin-left: 40px;}
+#tophead .col-sm-3:nth-child(2) {width: 449px;}
+#tophead .col-sm-3:nth-child(2) table{width: 400px;}
+.topNav li.navli {padding: 0 37px;}
+#productcatBox .productcat .catDetailBox p.desc{height: 32px;}
+#tabs #tabul li:nth-child(3){width: 349px;border-right:none!important}
+#tabs #tabul li:nth-child(4){width: calc(100% - 349px);}
+.buttonBlockZoomPrint a:nth-child(2) {margin: 0 10px;}
+.buttonBlockZoomPrint a:nth-child(3) {margin: 0;}
+.buttonBlockZoomPrint a{padding: 5px;}
+.detailleft a.video{margin: 10px 0 0 0!important;}
+footer .footer-content .col-sm-4:nth-child(2) {padding: 0 60px;width: 739px;}
+footer .footer-content .col-sm-4:nth-child(2) td:first-child {width: 270px;}
+}
+@media only screen and (min-width:1366px){
+#tophead .col-sm-3:nth-child(2) {width: 455px;}
+footer .footer-content .col-sm-4:nth-child(2) {width: 745px;}
+}
+@media only screen and (min-width:1400px){
+#topHead table tr td:nth-child(2) a {margin-left: 40px;}
+#tophead .col-sm-3:nth-child(2) {width: 464px;}
+#tophead .col-sm-3:nth-child(2) table{width: 410px;}
+footer .footer-content .col-sm-4:first-child {width: 337px;}
+footer .footer-content .col-sm-4:nth-child(2) {width: 744px;}
+#printArea .pagingtop table td:first-child{font-size: 15px;width: 107px!important}
+#printArea .pagingtop table td:nth-child(2){width: 344px;padding-left: 0;}
+#printArea .pagingtop table td:last-child{width: 269px!important}
+.pagingtop #sortBy{width: 180px}
+.pagingtop #sortBy1{width: 150px}
+.pagingtop .sort-item{width: 83px;}
+.pagingtop #items{font-size: 15px;width: 177px;}
+.pagingtop .searchBox{height: 36px;line-height: 34px;font-size: 15px;margin-left: 5px}
+.pagingtop td {height: 36px;line-height: 34px;}
+#filtersearch #filterkeyword, #filtersearch .input-group-btn{height: 36px;line-height: 34px;font-size: 15px;}
+#filtersearch .input-group-btn img{height: 21px;line-height: 21px;}
+}
+@media only screen and (min-width:1447px){
+#tophead .col-sm-3:nth-child(2) {width: 501px;}
+#productcatBox .productcat .catDetailBox p.title{height: 22px}
+footer .footer-content .col-sm-4 a {font-size: 16px;}
+footer .footer-content .col-sm-4:nth-child(2) {width: 773px;}
+footer .footer-content .col-sm-4:nth-child(2) td:first-child {width: 280px;}
+footer .footer-content .col-sm-4:last-child {width: 320px;}
+}

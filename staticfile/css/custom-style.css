@@ -1,0 +1,133 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+:root {
+    --primary: #EB0462;
+    --hov-primary: #4f2b7d;
+    --soft-primary: rgba(235, 4, 98, 0.15);
+}
+.dropbtn i {
+	line-height: 7px;
+	color: #78797b;
+}
+
+.dropbtn i.fas.fa-chevron-down {
+	font-size: 80%;
+	margin-left: 0.3rem;
+}
+
+button.dropbtn {
+	line-height: 7px !important;
+	height: 40px;
+	border: 1px solid #e2e5ec;
+	background: #fff;
+}
+
+button.dropbtn.rounded i.las.la-bars:after {
+	border: 0;
+	content: "\f107";
+	font-family: "Line Awesome Free";
+	font-weight: 900;
+	font-size: 80%;
+	margin-left: 0.3rem;
+}
+
+.dropdown-content .sub-cat-menu.c-scrollbar-light.rounded.shadow-lg.p-4 {
+	display: none;
+}
+
+.owl-carousel .owl-item {
+	position: relative;
+	float: left;
+	min-height: 1px;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-touch-callout: none;
+}
+
+.wpb_column.vc_column_container.vc_col-sm-12.vc_col-lg-3.vc_col-md-3.vc_col-xs-12 {
+	display: flex;
+	width: 25%;
+}
+
+.vc_col-md-9 {
+	width: 75%;
+}
+
+.vc_row.vc_row-flex {
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.box-icon-with-bg .info-box-icon,
+.box-icon-with-border .info-box-icon {
+	border-radius: 50%;
+	text-align: center;
+}
+
+.box-icon-with-bg .info-box-icon {
+	padding: 20px;
+	background-color: #F4F4F4;
+}
+
+.box-with-icon .info-box-icon {
+	overflow: hidden;
+}
+
+.woodmart-info-box .info-box-icon {
+	display: inline-block;
+	transition: all .25s ease;
+}
+
+.box-icon-align-top .box-icon-wrapper {
+	margin-bottom: 15px;
+}
+
+.owl-carousel.owl-loaded {
+	display: block;
+}
+
+.owl-carousel {
+	position: relative;
+	z-index: 1;
+	width: 100%;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.woodmart-info-box .box-icon-wrapper {
+	flex: 0 0 auto;
+	line-height: 0;
+}
+
+.info-box-carousel-wrapper .woodmart-info-box {
+	margin-bottom: 0;
+}
+
+.vc_custom_1607258853980 {
+	padding-right: 10% !important;
+	padding-left: 10% !important;
+}
+
+.woodmart-info-box {
+	display: flex;
+	align-items: stretch;
+	flex-direction: column;
+	margin-bottom: 35px;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.text-center {
+	text-align: center;
+}
